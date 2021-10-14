@@ -23,7 +23,7 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 4. **user.php** - Page to list all the User based on MySQL
 
 
-## For Sponsor or Project Enquiry
+## Contace Me On Email
 1. Email - hoangtrandtvt2000@gmail.com
 
 
