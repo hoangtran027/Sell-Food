@@ -28,5 +28,5 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 
 
 ## Contact Me on
-1. LinkedIn - [HoangTran](https://www.linkedin.com/feed/)
+1. LinkedIn - [HoangTran](https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-213283216/)
 2. Facebook - [HoangTran](https://www.facebook.com/profile.php?id=100016019583731)
